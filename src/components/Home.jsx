@@ -36,7 +36,7 @@ const HomeSection = ({ editable, onUpdate }) => {
     socialProfiles: [
       { 
         icon: <SiGithub className="text-gray-300 group-hover:text-white" />,
-        url: 'https://github.com',
+        url: 'https://github.com/rushabhdhondge026-glitch',
         name: 'GitHub',
         color: 'from-gray-700 to-gray-900',
         username: 'Github_rushabh'

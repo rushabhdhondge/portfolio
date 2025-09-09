@@ -135,12 +135,12 @@ const Education = () => {
         },
         {
           id: "prog-3",
-          name: "React.js Specialist",
-          institution: "Frontend Masters",
+          name: "Database Management System",
+          institution: "infosys springboard",
           year: "2023",
           type: "image",
           url: "/cer3.png", // Fixed path - directly using string
-          description: "React.js framework mastery certification"
+          description: "Database Management System certification"
         }
 
 
